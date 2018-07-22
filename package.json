@@ -1,0 +1,46 @@
+{
+  "name": "parser",
+  "version": "0.0.1",
+  "description": "Social networks parser",
+  "main": "parser.js",
+  "scripts": {
+    "start": "node parser",
+    "test": "node fb-parse-test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-restify-mongoose": "^4.3.0",
+    "highland": "^2.11.1",
+    "luxon": "^0.5.2",
+    "meow": "^4.0.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.7",
+    "nightmare": "^2.10.0",
+    "npm": "^5.8.0",
+    "vuikit": "^0.8.2"
+  },
+  "devDependencies": {
+    "babelify": "^8.0.0",
+    "browserify": "^16.1.0",
+    "eslint": "^4.18.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-vue": "^4.3.0",
+    "gulp": "^4.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "gulplog": "^1.0.0",
+    "prettier": "^1.10.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "vue": "^2.5.13",
+    "vueify": "^9.4.1"
+  }
+}
