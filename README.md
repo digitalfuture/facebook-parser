@@ -38,9 +38,3 @@ then:
 ```shell
 pm2 start ecosystem.config.js
 ```
-
-## Test
-
-```shell
-npm test
-```
