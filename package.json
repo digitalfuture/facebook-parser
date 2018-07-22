@@ -5,7 +5,7 @@
   "main": "parser.js",
   "scripts": {
     "start": "node parser",
-    "test": "node fb-parse-test"
+    "test": ""
   },
   "keywords": [],
   "author": "",
