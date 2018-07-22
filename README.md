@@ -1,5 +1,7 @@
 # Social networks parser
 
+(This is a part of big project that includes Google cloud services and Corezoid cloud process engine)
+
 **Backend:** MongoDB + Express + Nightmare
 
 **Frontend:** Vue + Vuetify
